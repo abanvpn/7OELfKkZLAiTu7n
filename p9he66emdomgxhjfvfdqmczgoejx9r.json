@@ -1,4 +1,11 @@
 {
   "base_url": "https://vm1.pixitheme.com",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "messages": {
+    "fa": "",
+    "en": "",
+    "ru": "",
+    "zh": ""
+  },
+  "btn_watch_ads": "Earn 1 Hour"
 }
