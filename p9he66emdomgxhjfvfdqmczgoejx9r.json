@@ -7,5 +7,10 @@
     "ru": "",
     "zh": ""
   },
-  "btn_watch_ads": "Earn 1 Hour"
+  "btn_watch_ads": {
+    "fa": "۱ ساعت اعتبار",
+    "en": "Earn 1 Hour",
+    "ru": "заработать 1 час",
+    "zh": "赚取1小时"
+  }
 }
